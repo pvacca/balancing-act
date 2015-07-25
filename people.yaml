@@ -1,0 +1,132 @@
+---
+Liz: -
+  Store: kk
+  Roles: [manager]
+Target hours: 23
+Min hours: 4
+Max hours: 8
+Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Pete: -
+  Store: kk
+  Roles: [keyholder]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Jenna: -
+  Store: kk
+  Roles: [pizza]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Frank: -
+  Store: kk
+  Roles: [line,pizza]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Tracy: -
+  Store: kk
+  Roles: [line]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Kenneth: -
+  Store: kk
+  Roles: [line,pizza]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Twofer: -
+  Store: kk
+  Roles: [line,pizza]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Lutz: -
+  Store: kk
+  Roles: [register]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Dr. Spaceman: -
+  Store: kk
+  Roles: [line]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Grizz: -
+  Store: kk
+  Roles: [keyholder,pizza]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+
+---
+Dot Com: -
+  Store: kk
+  Roles: [keyholder,pizza]
+  Target hours: 23
+  Min hours: 4
+  Max hours: 8
+  Max days of week: 5
+  Always off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Requested off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+  Prefers off: {Mon: "", Tue: "", Wed: "", Thu: "", Fri: "", Sat: "", Sun: ""}
+

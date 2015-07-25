@@ -1,0 +1,48 @@
+---
+Stores:
+ - name: kk
+   time_to_open: 30min
+ - name: bruce
+   time_to_open: 30min
+ - name: mpm
+   time_to_open: 30min
+
+# Stands:
+
+Services:
+  - coffee
+  - pizza
+
+Job Roles:
+ - trainee
+ - keyholder
+ - register
+ - line
+ - pizza
+ - manager
+
+Hours:
+  kk:
+    Monday: 6:30am-9:00pm
+    Tuesday: 6:30am-9:00pm
+    Wednesday: 6:30am-9:00pm
+    Thursday: 6:30am-9:00pm
+    Friday: 6:30am-9:00pm
+    Saturday: 7:00am-9:00pm
+    Sunday: 7:30am-9:00pm
+  bruce:
+    Monday: 6:30am-9:00pm
+    Tuesday: 6:30am-9:00pm
+    Wednesday: 6:30am-9:00pm
+    Thursday: 6:30am-9:00pm
+    Friday: 6:30am-9:00pm
+    Saturday: 7:00am-9:00pm
+    Sunday: 7:30am-9:00pm
+  mpm:
+    Monday: 6:30am-8:00pm
+    Tuesday: 6:30am-8:00pm
+    Wednesday: 6:30am-8:00pm
+    Thursday: 6:30am-8:00pm
+    Friday: 6:30am-8:00pm
+    Saturday: 7:00am-7:00pm
+    Sunday: 7:30am-6:00pm
