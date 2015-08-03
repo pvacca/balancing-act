@@ -1,0 +1,36 @@
+---
+The Rules:
+  - Open 9 to 5
+  - Open M thru F
+  - Two staff at all times
+  - All staff must work
+  - Shifts start and end on the hour
+  - All employees are equally qualified to work all shifts
+  - (2) Full Timer must work at least 24 hrs, prefers 28 hrs
+  - (3) Part Timer must work at least 8 hrs, prefers anywhere between 8-18 hrs (e.g. 8, 12, 16)
+  - Shift length may be 3, 4, 5, or 8 hrs
+  - Only a Full Timer can work an 8 hr shift
+  - A Full Timer on an 8 hr shift must get a 1 hr lunch, some time between 11am and 2pm
+  - A third worker is required to cover the floor while the Full Timer is on lunch
+  - A Part Timer must submit at least one day preferred not to work
+  - Any worker may submit at least one shift they cannot work
+
+---
+Input: some store
+ - total_allocated_hours
+ - total_unallocated_hours
+ - unallocated_single_person_hours
+
+# Coverage:
+#   Monday: { hours: "9am-5pm"
+#     , "9:00am":
+#     }
+
+---
+Worker:
+ - make_bid
+ - make_promise
+ - preferred_hours
+ - promised_hours
+ - hours_from_preferred
+
