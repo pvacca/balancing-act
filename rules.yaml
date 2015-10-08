@@ -1,25 +1,27 @@
 ---
 The Rules:
-  - Open 9 to 5
-  - Open M thru F
-  - Two staff at all times
-  - All staff must work
-  - Shifts start and end on the hour
-  - All employees are equally qualified to work all shifts
-  - (2) Full Timer must work at least 24 hrs, prefers 28 hrs
-  - (3) Part Timer must work at least 8 hrs, prefers anywhere between 8-18 hrs (e.g. 8, 12, 16)
-  - Shift length may be 3, 4, 5, or 8 hrs
-  - Only a Full Timer can work an 8 hr shift
-  - A Full Timer on an 8 hr shift must get a 1 hr lunch, some time between 11am and 2pm
-  - A third worker is required to cover the floor while the Full Timer is on lunch
-  - A Part Timer must submit at least one day preferred not to work
-  - Any worker may submit at least one shift they cannot work
+  - "Open 9 to 5."
+  - "Open M thru F."
+  - "Two staff at all times."
+  - "All staff must work."
+  - "Shifts start and end on the hour."
+  - "All employees are equally qualified to work all shifts."
+  - "(2) Full Timer must work at least 24 hrs, prefers 28 hrs."
+  - "(3) Part Timer must work at least 8 hrs, prefers anywhere between 8-18 hrs."
+  - "Shift length may be 3, 4, 5, or 8 hrs."
+  - "Only a Full Timer can work an 8 hr shift."
+  - "A Full Timer on an 8 hr shift must get a 1 hr lunch, some time between 11am and 2pm."
+  - "A third worker is required to cover the floor while the Full Timer is on lunch."
+  - "A Part Timer must submit at least one day preferred not to work."
+  - "Any worker may submit at least one shift they cannot work."
+  - "It is desirable to minimize the number of days two Full Timer workers work together."
 
 ---
 Input: some store
  - total_allocated_hours
  - total_unallocated_hours
- - unallocated_single_person_hours
+ - unallocated_single_person_hours  ## maximum unallocated hours a single worker could work (i.e. could one person physically cover all the remaining unallocated shifts?)
+ - minimum_unallocated_workers_required
 
 # Coverage:
 #   Monday: { hours: "9am-5pm"
